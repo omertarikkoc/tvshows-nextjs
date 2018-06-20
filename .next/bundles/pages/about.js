@@ -2247,7 +2247,13 @@ var _default = function _default() {
       fileName: _jsxFileName,
       lineNumber: 11
     }
-  }, " Open-source code is available on github "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li", {
+  }, " Open-source code is available on ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
+    href: "https://github.com/omertarik96/tvshows-nextjs",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    }
+  }, " github "), " "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
